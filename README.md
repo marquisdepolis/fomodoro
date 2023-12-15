@@ -1,5 +1,6 @@
 # fomo doro
 The best way to keep yourself on task with the help of LLMs
+![Fomodoro Header]([https://user-images.githubusercontent.com/.../filename.png](https://github.com/marquisdepolis/fomodoro/blob/main/image.png?raw=true))
 
 # why did i do this?
 Because I was procastinating yesterday on doing some tasks on my todo list, and since I didn't already have fomodoro, I ended up spending the time to build it.
