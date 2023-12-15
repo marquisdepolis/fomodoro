@@ -25,3 +25,5 @@ You should build the following, I think
 3. Run it on demand with a button, including shell if you need to run the Ollama server
 4. Run it on someone else's computer so you can tell them to stay on task (this one's for you Elon)
 5. Live in a world where productivity increases so fast that by the time the next commit comes we're in utopia!
+
+![Fomodoro Header](https://github.com/marquisdepolis/fomodoro/blob/main/image_after.png)
