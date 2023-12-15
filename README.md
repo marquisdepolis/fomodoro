@@ -1,4 +1,4 @@
-# fomo doro
+# fomodoro
 The best way to keep yourself on task with the help of LLMs
 
 ![Fomodoro Header](https://github.com/marquisdepolis/fomodoro/blob/main/image.png)
